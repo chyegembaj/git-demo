@@ -1,4 +1,0 @@
-Mimas
-Lokas
-Dekas
-Heyper
